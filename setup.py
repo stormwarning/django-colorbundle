@@ -6,11 +6,11 @@ setup(
     name='django-colorbundle',
     version=__version__,
     description='Template filters for extracting colours from an image.',
-    long_description=open('README.md').read(),
+    long_description=open('README.rst').read(),
     author='Jeff Nelson',
     author_email='rustyangel+pypi@gmail.com',
     url='https://github.com/stormwarning/django-colorbundle',
-    license=open('LICENSE').read(),
+    license='MIT',
     packages=find_packages(exclude=['tests']),
     include_package_data=True,
     install_requires=[
