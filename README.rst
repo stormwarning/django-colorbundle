@@ -12,6 +12,15 @@ Installation
 
     pip install django-colorbundle
 
+Changelog
+---------
+0.1.1 — 2017-04-10
+******************
+- **Fix:** Add dependency version number
+
+0.1.0
+*****
+- Initial release
 
 .. |PyPI| image:: https://img.shields.io/pypi/v/django-colorbundle.svg?style=flat-square
    :target: https://pypi.python.org/pypi/django-colorbundle/
