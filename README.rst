@@ -14,9 +14,10 @@ Installation
 
 Changelog
 ---------
-0.1.1 — 2017-04-10
+0.1.2 — 2017-04-10
 ******************
 - **Fix:** Add dependency version number
+- **Fix:** Correct dependency name
 
 0.1.0
 *****
