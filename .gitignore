@@ -36,3 +36,6 @@ Thumbs.db
 *.egg*
 local_dev.py
 local_production.py
+build/
+dist/
+
